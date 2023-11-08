@@ -1,0 +1,38 @@
+
+body{
+    margin: 0%;
+    padding:0%;
+}
+
+header{
+    background-color: grey;
+    position: fixed;
+}
+
+nav{
+    background-color: rgb(150, 12, 12);
+    position: sticky;
+    color: white;
+}
+
+main {
+
+}
+
+#sect1{
+
+}
+
+#sect2{
+
+}
+
+#sect3{
+
+}
+
+footer{
+    background-color: rgb(28, 28, 109);
+    color: white;
+    text-align: center;
+}
