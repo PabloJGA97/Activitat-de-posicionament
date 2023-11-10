@@ -1,34 +1,37 @@
 
 body{
-    margin: 0%;
-    padding:0%;
+    margin:0px;
+    padding:0px;
 }
 
 header{
     background-color: grey;
-    position: fixed;
+    text-align: left;
+    position:fixed;
+    padding-right:64%;
 }
 
 nav{
     background-color: rgb(150, 12, 12);
-    position: sticky;
     color: white;
+    text-align: center;
+    position:sticky
 }
 
 main {
-
+    margin:20px;
 }
 
 #sect1{
-
+    background-color: rgb(125, 207, 42);
 }
 
 #sect2{
-
+    background-color: rgb(102, 102, 238);
 }
 
 #sect3{
-
+    background-color: rgb(133, 105, 231);
 }
 
 footer{
