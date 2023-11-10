@@ -1,37 +1,44 @@
 
-body{
-    margin:0px;
-    padding:0px;
+#cos{
+    margin:0%;
+    padding:0%;
 }
 
-header{
+#capcalera{
     background-color: grey;
-    text-align: left;
-    position:fixed;
-    padding-right:64%;
+    position: fixed;
+    width: 100%;
 }
 
 nav{
     background-color: rgb(150, 12, 12);
     color: white;
     text-align: center;
-    position:sticky
+    position:sticky;
 }
 
 main {
-    margin:20px;
+    background-color: brown;
+    margin: 0px 0px 0px 0px;
+    padding: 0px 0px 5px 0px;
 }
 
 #sect1{
     background-color: rgb(125, 207, 42);
+    margin:20px;
+    padding: 10px 10px 10px 10px;
 }
 
 #sect2{
     background-color: rgb(102, 102, 238);
+    margin:20px;
+    padding: 10px 10px 10px 10px;
 }
 
 #sect3{
     background-color: rgb(133, 105, 231);
+    margin:20px;
+    padding: 10px 10px 10px 10px;
 }
 
 footer{
