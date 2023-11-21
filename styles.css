@@ -1,4 +1,12 @@
 
+img{
+    width:768px;height:514px
+}
+
+a{
+    color:gold;
+}
+
 #cos{
     margin:0px;
     padding:0px;
@@ -21,24 +29,24 @@ nav{
 main {
     background-color: brown;
     margin: 0px 0px 0px 0px;
-    padding: 0px 0px 5px 0px;
+    padding: 0px px 20px 0px;
 }
 
 #sect1{
     background-color: rgb(125, 207, 42);
-    margin:20px;
+    margin: 93px 10px 20px 20px;
     padding: 10px 10px 10px 10px;
 }
 
 #sect2{
     background-color: rgb(102, 102, 238);
-    margin:20px;
+    margin:40px 10px 40px 20px;
     padding: 10px 10px 10px 10px;
 }
 
 #sect3{
     background-color: rgb(133, 105, 231);
-    margin:20px;
+    margin: 40px 10px 0px 20px;
     padding: 10px 10px 10px 10px;
 }
 
